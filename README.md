@@ -36,7 +36,7 @@ Before you begin, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/EAllaucaD/soap_app.git
 ```
 ### 2. Commands
 
